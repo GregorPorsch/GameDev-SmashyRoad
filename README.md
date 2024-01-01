@@ -1,5 +1,15 @@
-# Welcome to GitHub Desktop!
+# Reckless Escape
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+![Design preview for Reckless Escape](./preview.png)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Welcome! 👋
+
+Thanks for checking out "Reckless Escape". The game's core mechanics involve efficiently collecting loot scattered across the game world within a time constraint, all while contending with relentless pursuits by police cars. Unity 3D serves as the primary development engine, enabling the implementation of intricate gameplay elements and the orchestration of the overall gaming experience.
+
+## Trailer
+
+[![Video Thumbnail](https://img.youtube.com/vi/o-WdALYLEc4/0.jpg)](https://youtu.be/o-WdALYLEc4)
+
+### Built with:
+- Unity
+- Blender 3D
